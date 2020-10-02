@@ -1,0 +1,198 @@
+# Title: A4Alpha/hosts
+# 
+# This hosts file is a privacy oriented collection of hosts for the
+# purpose of preventing unnecessary data collection
+#
+# Fetch the latest version of this file: 
+# https://raw.githubusercontent.com/A4Alpha/hosts/master/hosts
+#
+# Home page: 
+# https://github.com/A4Alpha/hosts
+#
+
+# [Prevent LeEco apps from uploading data]
+
+127.0.0.1 agneshome.www.letv.com
+127.0.0.1 agneshome.www.leyingtt.com
+127.0.0.1 projectlombok.org
+127.0.0.1 NS2.CIBNTV.NET
+127.0.0.1 g3com.cp21.ott.cibntv.net
+127.0.0.1 cibntv.net
+127.0.0.1 alog.umeng.co
+127.0.0.1 alog.umeng.com
+127.0.0.1 api.hdtv.letv.com
+127.0.0.1 api.letv.com
+127.0.0.1 ark.letv.com
+127.0.0.1 browser.scloud.letv.com
+127.0.0.1 cybertran.baidu.com
+127.0.0.1 download.dianshijia.cn
+127.0.0.1 ifacetv.com
+127.0.0.1 live.letv.com
+127.0.0.1 log.umsns.com
+127.0.0.1 m.baidu.com
+127.0.0.1 www.baidu.com
+127.0.0.1 oc.umeng.co
+127.0.0.1 oc.umeng.com
+127.0.0.1 purl.org
+127.0.0.1 push.g.scloud.letv.com
+127.0.0.1 push.scloud.letv.com
+127.0.0.1 s3.lecloud.com
+127.0.0.1 schemas.xmlsoap.org
+127.0.0.1 so.cde
+127.0.0.1 sso.letv.com
+127.0.0.1 static-scloud.cp21.ott.cibntv.net
+127.0.0.1 test.tvapi.letv.com
+127.0.0.1 www.le.com
+127.0.0.1 www.letv.com
+127.0.0.1 tp.api.itv.cp21.ott.cibntv.net
+127.0.0.1 sso.scloud.letv.com
+127.0.0.1 api.itv.cp21.ott.cibntv.net
+127.0.0.1 api.platform.cp21.ott.cibntv.net
+127.0.0.1 automation.whatismyip.com
+127.0.0.1 rorist.github.com
+127.0.0.1 api.platform.letv-epg.wasu.tv
+127.0.0.1 sso.scloud.letv.com
+127.0.0.1 api.feedback.platform.letv.com
+127.0.0.1 api.platform.letv.com
+127.0.0.1 api.platform.video123456.com
+127.0.0.1 api.platform.vmoters.com
+127.0.0.1 api.push.cp21.ott.cibntv.net
+127.0.0.1 api.push.le.com
+127.0.0.1 dc.letv.com
+127.0.0.1 dc.so.le.com
+127.0.0.1 g3.letv.cn
+127.0.0.1 live.letv.com
+127.0.0.1 n.mark.letv.com
+127.0.0.1 s.webp2p.cp21.ott.cibntv.net
+127.0.0.1 s.webp2p.letv-epg.wasu.tv
+127.0.0.1 s.webp2p.letv.com
+127.0.0.1 s.webp2p.video123456.com
+127.0.0.1 s.webp2p.vmoters.com
+127.0.0.1 sso.le.com
+127.0.0.1 app-measurement.com
+127.0.0.1 static.itv.letv.com
+127.0.0.1 test.push.platform.letv.com
+127.0.0.1 u.hivoice.cn
+127.0.0.1 upgrade.itv.cp21.ott.cibntv.net
+127.0.0.1 upgrade.itv.letv.com
+127.0.0.1 www.ifacetv.com
+127.0.0.1 i.le.com
+127.0.0.1 uspay.le.com
+127.0.0.1 sso.cp21.ott.cibntv.net
+127.0.0.1 hkpay.le.com
+127.0.0.1 lezone.le.com
+127.0.0.1 api.hdtv.cp21.ott.cibntv.net
+127.0.0.1 api.hpplay.com.cn
+127.0.0.1 api2.hpplay.com.cn
+127.0.0.1 cache.m.iqiyi.com
+127.0.0.1 data.hpplay.com.cn
+127.0.0.1 device-scloud.cp21.ott.cibntv.net
+127.0.0.1 ex.mobmore.com
+127.0.0.1 ex.puata.info
+127.0.0.1 ex.umengcloud.com
+127.0.0.1 feedback.umeng.com
+127.0.0.1 ftp.hpplay.com.cn
+127.0.0.1 leboapi.hpplay.com.cn
+127.0.0.1 metan.video.qiyi.com
+127.0.0.1 mta.qq.com
+127.0.0.1 pingma.qq.com
+127.0.0.1 remote-scloud.cp21.ott.cibntv.net
+127.0.0.1 www.hpplay.com.cn
+127.0.0.1 s3.lecloud.com
+127.0.0.1 upgrade-hdtv.cp21.ott.cibntv.net
+127.0.0.1 static-scloud.cp21.ott.cibntv.net
+127.0.0.1 xpage-scloud.cp21.ott.cibntv.net
+127.0.0.1 xpage.g.scloud.letv.com
+127.0.0.1 xpage.scloud.letv.com
+127.0.0.1 cert.ott.cibntv.net
+127.0.0.1 www.shooter.cn
+
+# [Block connections to all the LeTv servers]
+
+127.0.0.1 account.letv.com
+127.0.0.1 accounts.scloud.letv.com
+127.0.0.1 agnes.www.letv.com
+127.0.0.1 api.hdtv.letv.com
+127.0.0.1 api.itv.letv.com
+127.0.0.1 api.zhifu.letv.com
+127.0.0.1 apizhifu.letv.com
+127.0.0.1 backup.scloud.letv.com
+127.0.0.1 browser.letv.com
+127.0.0.1 browser.scloud.letv.com
+127.0.0.1 calendar.letv.com
+127.0.0.1 calendar.scloud.letv.com
+127.0.0.1 cloud.le.com
+127.0.0.1 control.letv.com
+127.0.0.1 control.scloud.letv.com
+127.0.0.1 custom.scloud.letv.com
+127.0.0.1 device.letv.com
+127.0.0.1 device.scloud.letv.com
+127.0.0.1 diff.scloud.letv.com
+127.0.0.1 dlb2.g5.letvlb.com
+127.0.0.1 dnm-cn.scloud.letv.com
+127.0.0.1 dnm.scloud.letv.com
+127.0.0.1 emoticon.scloud.letv.com
+127.0.0.1 frame.scloud.letv.com
+127.0.0.1 image.scloud.letv.com
+127.0.0.1 itv.letv.com
+127.0.0.1 itv.letv.com.wscdns.com
+127.0.0.1 letv.xdwscache.ourwebcdn.com
+127.0.0.1 levip.scloud.letv.com
+127.0.0.1 lock.letv.com
+127.0.0.1 lock.scloud.letv.com
+127.0.0.1 mail.scloud.letv.com
+127.0.0.1 music.letv.com
+127.0.0.1 music.letv.com.cdn20.com
+127.0.0.1 music.scloud.letv.com
+127.0.0.1 note.scloud.letv.com
+127.0.0.1 pan.scloud.letv.com
+127.0.0.1 pay.leletv.net
+127.0.0.1 pay.letv.com
+127.0.0.1 photo.scloud.letv.com
+127.0.0.1 push.letv.com
+127.0.0.1 push.scloud.letv.com
+127.0.0.1 remote.letv.com
+127.0.0.1 remote.scloud.letv.com
+127.0.0.1 s3.lecloud.com
+127.0.0.1 s3proxy.scloud.letv.com
+127.0.0.1 share.scloud.letv.com
+127.0.0.1 sticker.scloud.letv.com
+127.0.0.1 sync.letv.com
+127.0.0.1 sync.scloud.letv.com
+127.0.0.1 theme.scloud.letv.com
+127.0.0.1 usercenter.letv.com
+127.0.0.1 usercenter.scloud.letv.com
+127.0.0.1 vcall-scloud.cp21.ott.cibntv.net
+127.0.0.1 voice.go.letv.com
+127.0.0.1 wallet.scloud.letv.com
+127.0.0.1 wallpaper.letv.com
+127.0.0.1 wallpaper.scloud.letv.com
+127.0.0.1 xfeedback.letv.com
+127.0.0.1 xfeedback.scloud.letv.com
+127.0.0.1 xpage.letv.com
+127.0.0.1 xpage.scloud.letv.com
+127.0.0.1 xsquare.letv.com
+127.0.0.1 xsquare.scloud.letv.com
+127.0.0.1 yuanxian.letv.com
+127.0.0.1 yuanxianletv.letvlb.com
+127.0.0.1 zhifu.letv.com
+127.0.0.1 ota.letv.com
+127.0.0.1 ota.scloud.letv.com
+
+# [Block trackers in MX player]
+
+127.0.0.1 ade.clmbtech.com
+127.0.0.1 ase.clmbtech.com
+127.0.0.1 evt.mxplay.com
+127.0.0.1 f.mxplayer.j2inter.com
+127.0.0.1 i.mxplayer.j2inter.com
+127.0.0.1 mx.j2inter.com
+127.0.0.1 mxase.clmbtech.com
+127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
+127.0.0.1 p.mxplayer.j2inter.com
+127.0.0.1 reports.crashlytics.com
+127.0.0.1 subtitle.mxplay.com
+127.0.0.1 tml.clmbtech.com
+127.0.0.1 tracking-server-prod-1.zenmxapps.com
+
+# [The End]
