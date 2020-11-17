@@ -1,14 +1,14 @@
 # Title: A4Alpha/hosts
 # 
 # This hosts file is a privacy oriented collection of hosts for the
-# purpose of preventing unnecessary data collection
+# purpose of preventing telemetry
 #
 # Fetch the latest version of this file: 
 # https://raw.githubusercontent.com/A4Alpha/hosts/master/hosts
 #
 # Home page: 
 # https://github.com/A4Alpha/hosts
-#
+#--------------------------------------------------------------------
 
 # [Prevent LeEco apps from uploading data]
 
