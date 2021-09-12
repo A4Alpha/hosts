@@ -28,5 +28,21 @@
 0.0.0.0 subtitle.mxplay.com
 0.0.0.0 tml.clmbtech.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
+0.0.0.0 www.androidapi.mxplay.com
+0.0.0.0 www.mxplayer.in
+0.0.0.0 www.ade.clmbtech.com
+0.0.0.0 www.ase.clmbtech.com
+0.0.0.0 www.evt.mxplay.com
+0.0.0.0 www.f.mxplayer.j2inter.com
+0.0.0.0 www.i.mxplayer.j2inter.com
+0.0.0.0 www.j2inter.com
+0.0.0.0 www.mx.j2inter.com
+0.0.0.0 www.mxase.clmbtech.com
+0.0.0.0 www.mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 www.p.mxplayer.j2inter.com
+0.0.0.0 www.reports.crashlytics.com
+0.0.0.0 www.subtitle.mxplay.com
+0.0.0.0 www.tml.clmbtech.com
+0.0.0.0 www.tracking-server-prod-1.zenmxapps.com
 
 # [The End]
