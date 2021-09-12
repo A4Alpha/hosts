@@ -12,11 +12,14 @@
 
 # [Block trackers in MX player]
 
+0.0.0.0 androidapi.mxplay.com
+0.0.0.0 mxplayer.in
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 evt.mxplay.com
 0.0.0.0 f.mxplayer.j2inter.com
 0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 j2inter.com
 0.0.0.0 mx.j2inter.com
 0.0.0.0 mxase.clmbtech.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
