@@ -12,18 +12,18 @@
 
 # [Block trackers in MX player]
 
-127.0.0.1 ade.clmbtech.com
-127.0.0.1 ase.clmbtech.com
-127.0.0.1 evt.mxplay.com
-127.0.0.1 f.mxplayer.j2inter.com
-127.0.0.1 i.mxplayer.j2inter.com
-127.0.0.1 mx.j2inter.com
-127.0.0.1 mxase.clmbtech.com
-127.0.0.1 mxvp-feature-toggle-prod-1.zenmxapps.com
-127.0.0.1 p.mxplayer.j2inter.com
-127.0.0.1 reports.crashlytics.com
-127.0.0.1 subtitle.mxplay.com
-127.0.0.1 tml.clmbtech.com
-127.0.0.1 tracking-server-prod-1.zenmxapps.com
+0.0.0.0 ade.clmbtech.com
+0.0.0.0 ase.clmbtech.com
+0.0.0.0 evt.mxplay.com
+0.0.0.0 f.mxplayer.j2inter.com
+0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 mx.j2inter.com
+0.0.0.0 mxase.clmbtech.com
+0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
+0.0.0.0 p.mxplayer.j2inter.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 subtitle.mxplay.com
+0.0.0.0 tml.clmbtech.com
+0.0.0.0 tracking-server-prod-1.zenmxapps.com
 
 # [The End]
